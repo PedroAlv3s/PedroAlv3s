@@ -21,4 +21,5 @@
 <br/>
 
 Um desenvolvedor Web, estudante de TI e apaixonado por tecnologia que busca se tornar um ótimo desenvolvedor Full Stack no futuro.
+
 E-mail para contato: pedro2032004@gmail.com
