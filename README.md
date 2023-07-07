@@ -1,4 +1,4 @@
-## Olá! Eu sou o Pedro Alves!
+## Olá! Meu nome é Pedro Alves!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-alves-da-silva-neto)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/pedro2032004)
